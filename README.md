@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dockerfiles: forgetting to include a necessary file (requirements.txt in this case). The initial Dockerfile is missing the requirements.txt file, leading to a build failure. The solution demonstrates how to correctly include the requirements.txt file and ensure a successful build.
